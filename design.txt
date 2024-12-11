@@ -1,0 +1,3 @@
+Purpose Statement
+
+The Book Rating Tracker is an easy way to keep track of all the books you've read along with all of the information about them. This application allows you to store the title of the book, author, number of pages, genre, assign a progress marker, and give it a rating. The user interface is easy to navigate and allows you to view all books, add a book, update a book, delete a book, and view the details about a specific book.
